@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "platform": "macos-arm64",
+  "build": 8,
+  "commit": "95de46d40a2ef7eb7f51e9d57d2925f2adc1a245",
+  "date": "2026-11-25T10:12:15Z",
+  "protocol": 14,
+  "game": {
+    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b8-macos-arm64/nothea-macos-arm64.zip",
+    "size": 55937582,
+    "sha256": "1d5ca9b47b23c585e5e0719d63faa25eea842a4933605f8ed044132d08e40112",
+    "exe": "voxel_game"
+  },
+  "launcher": {
+    "version": "0.2.0",
+    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/launcher-v0.2.0/nothea-launcher-macos-arm64",
+    "size": 5578896,
+    "sha256": "69f95a08c41d65a7731fb115a95563f1f52c0a395da8dafda2f00fefc195e9a3"
+  },
+  "notes": [
+    "Torn pages now show their titles in your pack and the catalogue.",
+    "Give and spawn commands find things by part of a name.",
+    "The launcher has a new look, with sunset views from the world behind it.",
+    "The launcher now shows what is new in each build before you update.",
+    "Downloads show their speed and the time left."
+  ]
+}
