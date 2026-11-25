@@ -1,20 +1,25 @@
 {
   "schema": 1,
   "platform": "windows-x64",
-  "build": 4,
-  "commit": "4e552fea76c7f91ff1b43651f7c1108c89f91ea4",
-  "date": "2026-11-24T20:42:11Z",
+  "build": 6,
+  "commit": "534b8ff57a3719b3c2f2f4788f6257a81d9a29cb",
+  "date": "2026-11-25T03:57:27Z",
   "protocol": 14,
   "game": {
-    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b4-windows-x64/nothea-windows-x64.zip",
-    "size": 54685054,
-    "sha256": "796ac317de3748c1f2d3436f421300f9d2422f04d24a48dbbcb2943a2d801833",
+    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b6-windows-x64/nothea-windows-x64.zip",
+    "size": 54685052,
+    "sha256": "8d77a5812bf9008882f0638dfb7f12a858c31106ab13bbf92ca119b2383dadba",
     "exe": "voxel_game.exe"
   },
   "launcher": {
-    "version": "0.1.0",
-    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/launcher-v0.1.0/NotheaLauncher-windows-x64.exe",
-    "size": 6699520,
-    "sha256": "10cadb972e402e192c4ffa64bb9520b79cfc5aaced8988ce40ebe21fe37b1ac8"
-  }
+    "version": "0.2.0",
+    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/launcher-v0.2.0/NotheaLauncher-windows-x64.exe",
+    "size": 7202304,
+    "sha256": "e7d9964b033daf2e0c6c960ece50b17d811b9bc79310f08231375f57db10e7a9"
+  },
+  "notes": [
+    "The launcher has a new look, with sunset views from the world behind it.",
+    "The launcher now shows what is new in each build before you update.",
+    "Downloads show their speed and the time left."
+  ]
 }
