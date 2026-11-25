@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "platform": "windows-x64",
-  "build": 6,
-  "commit": "534b8ff57a3719b3c2f2f4788f6257a81d9a29cb",
-  "date": "2026-11-25T03:57:27Z",
+  "build": 7,
+  "commit": "95de46d40a2ef7eb7f51e9d57d2925f2adc1a245",
+  "date": "2026-11-25T09:02:52Z",
   "protocol": 14,
   "game": {
-    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b6-windows-x64/nothea-windows-x64.zip",
-    "size": 54685052,
-    "sha256": "8d77a5812bf9008882f0638dfb7f12a858c31106ab13bbf92ca119b2383dadba",
+    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b7-windows-x64/nothea-windows-x64.zip",
+    "size": 54684924,
+    "sha256": "a1902644207f1aededa9b49fcbde0b5c516480805e5712ab31e56843e40a3c79",
     "exe": "voxel_game.exe"
   },
   "launcher": {
@@ -18,8 +18,7 @@
     "sha256": "e7d9964b033daf2e0c6c960ece50b17d811b9bc79310f08231375f57db10e7a9"
   },
   "notes": [
-    "The launcher has a new look, with sunset views from the world behind it.",
-    "The launcher now shows what is new in each build before you update.",
-    "Downloads show their speed and the time left."
+    "Torn pages now show their titles in your pack and the catalogue.",
+    "Give and spawn commands find things by part of a name."
   ]
 }
