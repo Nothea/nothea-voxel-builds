@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "platform": "linux-x64",
-  "build": 9,
-  "commit": "1177d83c33b98aed8f261cee0b6ef210b7ba1099",
-  "date": "2026-11-26T01:32:08Z",
+  "build": 10,
+  "commit": "d863313ae7e5978cfc75609ff125266538f6a396",
+  "date": "2026-11-26T08:48:33Z",
   "protocol": 14,
   "game": {
-    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b9-linux-x64/nothea-linux-x64.zip",
-    "size": 60606495,
-    "sha256": "b578af520ccea56233390838a0096a30312268700cda25a6f27a069e303dc3c0",
+    "url": "https://github.com/Nothea/nothea-voxel-builds/releases/download/b10-linux-x64/nothea-linux-x64.zip",
+    "size": 60606497,
+    "sha256": "ab3e583a1e459d8152c87669aa5a5496d79b1965c8588d4edb5f0c5224bf3cfb",
     "exe": "voxel_game"
   },
   "launcher": {
